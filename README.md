@@ -9,6 +9,8 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[2]** Yann Lecun, **Self-Supervised Learning** [[pdf]](https://drive.google.com/file/d/1r-mDL4IX_hzZLDBKp8_e8VZqD7fOzBkF/view)
 
+![](resources/reasoning.png)
+
 ## 1 Mathematical Problems
 
 **[1]** 
