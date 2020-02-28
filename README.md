@@ -37,7 +37,21 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[13]** van Steenkiste, Sjoerd, et al. **Are Disentangled Representations Helpful for Abstract Visual Reasoning?.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/9570-are-disentangled-representations-helpful-for-abstract-visual-reasoning.pdf)
 
-## 2 Natural Language Reasoning
+## 2 Visual Reasoning
+
+**[1]** Han, Chi, et al. **Visual Concept-Metaconcept Learning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/8745-visual-concept-metaconcept-learning.pdf)
+
+**[2]** Mao, Jiayuan, et al. **Program-Guided Image Manipulators.** Proceedings of the IEEE International Conference on Computer Vision. 2019.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Program-Guided_Image_Manipulators_ICCV_2019_paper.pdf)
+
+**[3]** Mao, Jiayuan, et al. **The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision.** arXiv preprint arXiv:1904.12584 (2019). [[pdf]](https://arxiv.org/pdf/1904.12584)
+
+**[4]** Tian, Yonglong, et al. **Learning to infer and execute 3d shape programs.** arXiv preprint arXiv:1901.02875 (2019). [[pdf]](https://arxiv.org/pdf/1901.02875)
+
+**[5]** Liu, Yunchao, et al. **Learning to describe scenes with programs.** (2018). [[pdf]](https://openreview.net/pdf?id=SyNPk2R9K7)
+
+**[6]** Yi, Kexin, et al. **Neural-symbolic vqa: Disentangling reasoning from vision and language understanding.** Advances in Neural Information Processing Systems. 2018. [[pdf]](https://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
+
+## 3 Natural Language Reasoning
 
 **[1]** Schlag, Imanol, and Jürgen Schmidhuber. **Learning to reason with third order tensor products.** Advances in neural information processing systems. 2018.[[pdf]](http://papers.nips.cc/paper/8203-learning-to-reason-with-third-order-tensor-products.pdf)
 
