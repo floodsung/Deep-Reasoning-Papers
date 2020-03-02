@@ -37,7 +37,31 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[13]** van Steenkiste, Sjoerd, et al. **Are Disentangled Representations Helpful for Abstract Visual Reasoning?.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/9570-are-disentangled-representations-helpful-for-abstract-visual-reasoning.pdf)
 
-## 2 Visual Reasoning
+## 2 Raven's Progressive Matrices
+
+**[1]** Santoro, Adam, et al. **Measuring abstract reasoning in neural networks.** International Conference on Machine Learning. 2018.[[pdf]](http://proceedings.mlr.press/v80/santoro18a/santoro18a.pdf)
+
+**[2]** Zhang, Chi, et al. **Raven: A dataset for relational and analogical visual reasoning.** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.[[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_RAVEN_A_Dataset_for_Relational_and_Analogical_Visual_REasoNing_CVPR_2019_paper.pdf)
+
+**[3]** Zheng, Kecheng, Zheng-Jun Zha, and Wei Wei. **Abstract Reasoning with Distracting Features.** Advances in Neural Information Processing Systems. 2019.[[pdf]](http://papers.nips.cc/paper/8819-abstract-reasoning-with-distracting-features.pdf)
+
+**[4]** Hill, Felix, et al. "Learning to make analogies by contrasting abstract relational structure." arXiv preprint arXiv:1902.00120 (2019).[[pdf]](https://arxiv.org/pdf/1902.00120)
+
+**[5]** Hu, Sheng, et al. **Hierarchical Rule Induction Network for Abstract Visual Reasoning.** arXiv preprint arXiv:2002.06838 (2020). [[pdf]](https://arxiv.org/pdf/2002.06838)
+
+**[6]** Zhang, Chi, et al. **Learning perceptual inference by contrasting." Advances in Neural Information Processing Systems**. 2019. [[pdf]](http://papers.nips.cc/paper/8392-learning-perceptual-inference-by-contrasting.pdf)
+
+**[7]** van Steenkiste, Sjoerd, et al. **Are Disentangled Representations Helpful for Abstract Visual Reasoning?.** Advances in Neural Information Processing Systems. 2019.[[pdf]](https://papers.nips.cc/paper/9570-are-disentangled-representations-helpful-for-abstract-visual-reasoning.pdf)
+
+**[8]** Zhuo, Tao, and Mohan Kankanhalli. **Solving Raven's Progressive Matrices with Neural Networks.** arXiv preprint arXiv:2002.01646 (2020). [[pdf]](https://arxiv.org/pdf/2002.01646)
+
+**[9]** Wang, Duo, Mateja Jamnik, and Pietro Lio. **Abstract diagrammatic reasoning with multiplex graph networks.** (2020). [[pdf]](https://openreview.net/pdf?id=ByxQB1BKwH)
+
+**[10]** Steenbrugge, Xander, et al. **Improving generalization for abstract reasoning tasks using disentangled feature representations.** arXiv preprint arXiv:1811.04784 (2018). [[pdf]](https://arxiv.org/pdf/1811.04784)
+
+
+
+## 3 Visual Reasoning
 
 **[1]** Han, Chi, et al. **Visual Concept-Metaconcept Learning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/8745-visual-concept-metaconcept-learning.pdf)
 
@@ -51,14 +75,14 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[6]** Yi, Kexin, et al. **Neural-symbolic vqa: Disentangling reasoning from vision and language understanding.** Advances in Neural Information Processing Systems. 2018. [[pdf]](https://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
 
-## 3 Physical Reasoning
+## 4 Physical Reasoning
 
 **[1]** Jaques, Miguel, Michael Burke, and Timothy Hospedales. **Physics-as-inverse-graphics: Joint unsupervised learning of objects and physics from video.** arXiv preprint arXiv:1905.11169 (2019). [[pdf]](https://openreview.net/pdf?id=BJeKwTNFvB)
 
 **[2]** Bakhtin, Anton, et al. **Phyre: A new benchmark for physical reasoning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/8752-phyre-a-new-benchmark-for-physical-reasoning.pdf)
 
 
-## 3 Natural Language Reasoning
+## 5 Natural Language Reasoning
 
 **[1]** Schlag, Imanol, and Jürgen Schmidhuber. **Learning to reason with third order tensor products.** Advances in neural information processing systems. 2018.[[pdf]](http://papers.nips.cc/paper/8203-learning-to-reason-with-third-order-tensor-products.pdf)
 
