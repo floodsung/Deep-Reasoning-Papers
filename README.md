@@ -75,11 +75,28 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[6]** Yi, Kexin, et al. **Neural-symbolic vqa: Disentangling reasoning from vision and language understanding.** Advances in Neural Information Processing Systems. 2018. [[pdf]](https://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
 
-## 4 Physical Reasoning
+## 4 Physical Reasoning/Planning/Model based/World Model
 
 **[1]** Jaques, Miguel, Michael Burke, and Timothy Hospedales. **Physics-as-inverse-graphics: Joint unsupervised learning of objects and physics from video.** arXiv preprint arXiv:1905.11169 (2019). [[pdf]](https://openreview.net/pdf?id=BJeKwTNFvB)
 
 **[2]** Bakhtin, Anton, et al. **Phyre: A new benchmark for physical reasoning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/8752-phyre-a-new-benchmark-for-physical-reasoning.pdf)
+
+**[3]** Ye Y, Gandhi D, Gupta A, et al. **Object-centric Forward Modeling for Model Predictive Control**[J]. arXiv preprint arXiv:1910.03568, 2019. [[pdf]](https://arxiv.org/pdf/1910.03568)
+
+**[4]** Veerapaneni R, Co-Reyes J D, Chang M, et al. **Entity Abstraction in Visual Model-Based Reinforcement Learning**[J]. arXiv preprint arXiv:1910.12827, 2019.[[pdf]](https://arxiv.org/pdf/1910.12827)
+
+**[5]** Janner M, Levine S, Freeman W T, et al. **Reasoning about physical interactions with object-oriented prediction and planning**[J]. arXiv preprint arXiv:1812.10972, 2018.[[pdf]](https://arxiv.org/pdf/1812.10972)
+
+**[6]** Kossen J, Stelzner K, Hussing M, et al. **Structured Object-Aware Physics Prediction for Video Modeling and Planning**[J]. arXiv preprint arXiv:1910.02425, 2019. [[pdf]](https://arxiv.org/pdf/1910.02425)
+
+**[7]** Watters N, Matthey L, Bosnjak M, et al. **Cobra: Data-efficient model-based rl through unsupervised object discovery and curiosity-driven exploration**[J]. arXiv preprint arXiv:1905.09275, 2019.[[pdf]](https://arxiv.org/pdf/1905.09275)
+
+**[8]** Li Y, He H, Wu J, et al. **Learning Compositional Koopman Operators for Model-Based Control**[J]. arXiv preprint arXiv:1910.08264, 2019.[[pdf]](https://arxiv.org/pdf/1910.08264)
+
+**[9]** Kulkarni T D, Gupta A, Ionescu C, et al. **Unsupervised learning of object keypoints for perception and control**[C]//Advances in Neural Information Processing Systems. 2019: 10723-10733. [[pdf]](http://papers.nips.cc/paper/9256-unsupervised-learning-of-object-keypoints-for-perception-and-control.pdf)
+
+**[10]** Kipf T, van der Pol E, Welling M. **Contrastive Learning of Structured World Models**[J]. arXiv preprint arXiv:1911.12247, 2019. [[pdf]](https://arxiv.org/pdf/1911.12247)
+
 
 
 ## 5 Natural Language Reasoning
