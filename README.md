@@ -99,6 +99,8 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[10]** Kipf T, van der Pol E, Welling M. **Contrastive Learning of Structured World Models**[J]. arXiv preprint arXiv:1911.12247, 2019. [[pdf]](https://arxiv.org/pdf/1911.12247)
 
+**[11]** Chang M B, Ullman T, Torralba A, et al. **A compositional object-based approach to learning physical dynamics**[J]. arXiv preprint arXiv:1612.00341, 2016. [[pdf]](https://arxiv.org/pdf/1612.00341)
+
 
 
 ## 5 Natural Language Reasoning
