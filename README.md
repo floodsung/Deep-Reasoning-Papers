@@ -101,6 +101,18 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[11]** Chang M B, Ullman T, Torralba A, et al. **A compositional object-based approach to learning physical dynamics**[J]. arXiv preprint arXiv:1612.00341, 2016. [[pdf]](https://arxiv.org/pdf/1612.00341)
 
+**[12]** Sanchez-Gonzalez A, Godwin J, Pfaff T, et al. **Learning to Simulate Complex Physics with Graph Networks**[J]. arXiv preprint arXiv:2002.09405, 2020.[[pdf]](https://arxiv.org/pdf/2002.09405)
+
+**[13]** Battaglia P, Pascanu R, Lai M, et al. **Interaction networks for learning about objects, relations and physics**[C]//Advances in neural information processing systems. 2016: 4502-4510. [[pdf]](http://papers.nips.cc/paper/6418-interaction-networks-for-learning-about-objects-relations-and-physics.pdf)
+
+**[14]** Watters N, Zoran D, Weber T, et al. **Visual interaction networks: Learning a physics simulator from video**[C]//Advances in neural information processing systems. 2017: 4539-4547. [[pdf]](http://papers.nips.cc/paper/7040-visual-interaction-networks-learning-a-physics-simulator-from-video.pdf)
+
+**[15]** Cranmer M, Greydanus S, Hoyer S, et al. **Lagrangian Neural Networks**[J]. arXiv preprint arXiv:2003.04630, 2020. [[pdf]](https://arxiv.org/pdf/2003.04630)
+
+**[16]** Sanchez-Gonzalez A, Heess N, Springenberg J T, et al. **Graph networks as learnable physics engines for inference and control**[J]. arXiv preprint arXiv:1806.01242, 2018. [[pdf]](https://arxiv.org/pdf/1806.01242)
+
+**[17]** Li Y, Wu J, Tedrake R, et al. **Learning particle dynamics for manipulating rigid bodies, deformable objects, and fluids**[J]. arXiv preprint arXiv:1810.01566, 2018.[[pdf]](https://arxiv.org/pdf/1810.01566)
+
 
 
 ## 5 Natural Language Reasoning
