@@ -37,6 +37,8 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[13]** van Steenkiste, Sjoerd, et al. **Are Disentangled Representations Helpful for Abstract Visual Reasoning?.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/9570-are-disentangled-representations-helpful-for-abstract-visual-reasoning.pdf)
 
+**[14]** Dai, Wang-Zhou, et al. **Bridging machine learning and logical reasoning by abductive learning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](http://papers.nips.cc/paper/8548-bridging-machine-learning-and-logical-reasoning-by-abductive-learning.pdf) [[code]](https://github.com/AbductiveLearning/ABL-HED)
+
 ## 2 Raven's Progressive Matrices
 
 **[1]** Santoro, Adam, et al. **Measuring abstract reasoning in neural networks.** International Conference on Machine Learning. 2018.[[pdf]](http://proceedings.mlr.press/v80/santoro18a/santoro18a.pdf)
