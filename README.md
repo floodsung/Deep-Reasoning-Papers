@@ -119,6 +119,57 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[1]** Schlag, Imanol, and Jürgen Schmidhuber. **Learning to reason with third order tensor products.** Advances in neural information processing systems. 2018.[[pdf]](http://papers.nips.cc/paper/8203-learning-to-reason-with-third-order-tensor-products.pdf)
 
+## 6 Modularity/Compositional or Systematic Generalization
+
+**[1]** Jacobs R A, Jordan M I, Nowlan S J, et al. **Adaptive mixtures of local experts[J]. Neural computation**, 1991, 3(1): 79-87. [[pdf]](http://www.csri.utoronto.ca/~hinton/absps/jjnh91.ps)
+
+
+**[2]** Bottou L, Gallinari P. **A framework for the cooperation of learning algorithms**[C]//Advances in neural information processing systems. 1991: 781-788. [[pdf]](http://papers.nips.cc/paper/308-a-framework-for-the-cooperation-of-learning-algorithms.pdf)
+
+**[3]** Ronco E, Gollee H, Gawthrop P J. **Modular neural network and self-decomposition**[J]. Connection Science (special issue: COMBINING NEURAL NETS).(To appear), 1996. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.42.3570&rep=rep1&type=pdf)
+
+**[4]** Reed S, De Freitas N. **Neural programmer-interpreters**[J]. arXiv preprint arXiv:1511.06279, 2015.
+[[pdf]](https://arxiv.org/pdf/1511.06279)
+
+**[5]** Andreas J, Rohrbach M, Darrell T, et al. **Neural module networks**[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 39-48. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf)
+
+**[6]** Parascandolo G, Kilbertus N, Rojas-Carulla M, et al. **Learning independent causal mechanisms**[J]. arXiv preprint arXiv:1712.00961, 2017. [[pdf]](https://arxiv.org/pdf/1712.00961)
+
+**[7]** Rosenbaum C, Klinger T, Riemer M. **Routing networks: Adaptive selection of non-linear functions for multi-task learning**[J]. arXiv preprint arXiv:1711.01239, 2017. [[pdf]](https://arxiv.org/pdf/1711.01239)
+
+**[8]** Fernando C, Banarse D, Blundell C, et al. **Pathnet: Evolution channels gradient descent in super neural networks**[J]. arXiv preprint arXiv:1701.08734, 2017. [[pdf]](https://arxiv.org/pdf/1701.08734)
+
+**[9]** Shazeer N, Mirhoseini A, Maziarz K, et al. **Outrageously large neural networks: The sparsely-gated mixture-of-experts layer**[J]. arXiv preprint arXiv:1701.06538, 2017. [[pdf]](https://arxiv.org/pdf/1701.06538.pdf%22%20%5Ct%20%22_blank)
+
+**[10]** Kirsch L, Kunze J, Barber D. **Modular networks: Learning to decompose neural computation**[C]//Advances in Neural Information Processing Systems. 2018: 2408-2418. [[pdf]](http://papers.nips.cc/paper/7508-modular-networks-learning-to-decompose-neural-computation.pdf)
+
+**[11]** Rosenbaum C, Cases I, Riemer M, et al. **Routing networks and the challenges of modular and compositional computation**[J]. arXiv preprint arXiv:1904.12774, 2019. [[pdf]](https://arxiv.org/pdf/1904.12774)
+
+**[12]** Goyal A, Lamb A, Hoffmann J, et al. **Recurrent independent mechanisms**[J]. arXiv preprint arXiv:1909.10893, 2019. [[pdf]](https://arxiv.org/pdf/1909.10893)
+
+**[13]** Goyal A, Sodhani S, Binas J, et al. **Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives**[J]. arXiv preprint arXiv:1906.10667, 2019. [[pdf]](https://arxiv.org/pdf/1906.10667)
+
+**[14]** Yang R, Xu H, Wu Y, et al. **Multi-Task Reinforcement Learning with Soft Modularization**[J]. arXiv preprint arXiv:2003.13661, 2020. [[pdf]](https://arxiv.org/pdf/2003.13661)
+
+**[15]** Peng X B, Chang M, Zhang G, et al. **Mcp: Learning composable hierarchical control with multiplicative compositional policies**[C]//Advances in Neural Information Processing Systems. 2019: 3681-3692. [[pdf]](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf)
+
+**[16]** Hu, Ronghang, et al. **Learning to reason: End-to-end module networks for visual question answering.** Proceedings of the IEEE International Conference on Computer Vision. 2017. [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hu_Learning_to_Reason_ICCV_2017_paper.pdf)
+
+**[17]** Devin, Coline, et al. **Learning modular neural network policies for multi-task and multi-robot transfer.** 2017 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2017. [[pdf]](https://arxiv.org/pdf/1609.07088)
+
+**[18]** Alet, Ferran, Tomás Lozano-Pérez, and Leslie P. Kaelbling. **Modular meta-learning.** arXiv preprint arXiv:1806.10166 (2018). [[pdf]](https://arxiv.org/pdf/1806.10166)
+
+**[19]** Chitnis, Rohan, Leslie Pack Kaelbling, and Tomás Lozano-Pérez. **Learning quickly to plan quickly using modular meta-learning.** 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.[[pdf]](https://arxiv.org/pdf/1809.07878)
+
+**[20]** Alet, Ferran, et al. **Modular meta-learning in abstract graph networks for combinatorial generalization.** arXiv preprint arXiv:1812.07768 (2018).[[pdf]](https://arxiv.org/pdf/1812.07768)
+
+**[21]** Chen, Yutian, et al. **Modular meta-learning with shrinkage** arXiv preprint arXiv:1909.05557 (2019). [[pdf]](https://arxiv.org/pdf/1909.05557)
+
+**[22]** Alet, Ferran, et al. **Neural Relational Inference with Fast Modular Meta-learning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/9353-neural-relational-inference-with-fast-modular-meta-learning.pdf)
+
+**[23]** Andreas, Jacob, Dan Klein, and Sergey Levine. **Modular multitask reinforcement learning with policy sketches.** Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017. [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3305399&type=pdf)
+
+
 
 ## Datasets
 
