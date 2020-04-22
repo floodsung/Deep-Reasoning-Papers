@@ -11,6 +11,8 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 ![](resources/reasoning.png)
 
+**[3]** Petar Veličković **Graph Representation Learning for Algorithmic Reasoning** [[pdf]](https://petar-v.com/talks/Algo-WWW.pdf)
+
 ## 1 Mathematical Problems
 
 **[1]** Saxton, David, et al. **Analysing mathematical reasoning abilities of neural models.** arXiv preprint arXiv:1904.01557 (2019).[[pdf]](https://arxiv.org/pdf/1904.01557)
