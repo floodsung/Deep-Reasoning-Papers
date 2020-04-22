@@ -169,6 +169,8 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[23]** Andreas, Jacob, Dan Klein, and Sergey Levine. **Modular multitask reinforcement learning with policy sketches.** Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017. [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3305399&type=pdf)
 
+**[24]** Bahdanau D, Murty S, Noukhovitch M, et al. **Systematic generalization: what is required and can it be learned?**[J]. arXiv preprint arXiv:1811.12889, 2018. [[pdf]](https://arxiv.org/pdf/1811.12889)
+
 
 
 ## Datasets
