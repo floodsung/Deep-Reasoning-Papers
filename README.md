@@ -3,7 +3,7 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 ## 0 Survey or Talk
 
-**[1]** Yoshua Bengio,**From System 1 Deep Learning to System 2 Deep Learning** [[pdf]](https://drive.google.com/file/d/1zbe_N8TmAEvPiKXmn6yZlRkFehsAUS8Z/view)
+**[1]** Yoshua Bengio,**From System 1 Deep Learning to System 2 Deep Learning** [[pdf]](https://drive.google.com/file/d/1zbe_N8TmAEvPiKXmn6yZlRkFehsAUS8Z/view) [[video]](https://youtu.be/T3sxeTgT4qc)
 
 ![](resources/system2.png)
 
