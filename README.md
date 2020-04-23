@@ -180,6 +180,7 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[27]** Sporns O, Betzel R F. **Modular brain networks**[J]. Annual review of psychology, 2016, 67: 613-640.
 
+**[28]** Clune J, Mouret J B, Lipson H. **The evolutionary origins of modularity**[J]. Proceedings of the Royal Society b: Biological sciences, 2013, 280(1755): 20122863.[[pdf]](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2012.2863)
 
 ## Datasets
 
