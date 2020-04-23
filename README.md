@@ -176,6 +176,9 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[25]** Chang M B, Gupta A, Levine S, et al. **Automatically composing representation transformations as a means for generalization**[J]. arXiv preprint arXiv:1807.04640, 2018.[[pdf]](https://arxiv.org/pdf/1807.04640)
 
+**[26]** Meunier D, Lambiotte R, Bullmore E T. **Modular and hierarchically modular organization of brain networks**[J]. Frontiers in neuroscience, 2010, 4: 200.
+
+**[27]** Sporns O, Betzel R F. **Modular brain networks**[J]. Annual review of psychology, 2016, 67: 613-640.
 
 
 ## Datasets
