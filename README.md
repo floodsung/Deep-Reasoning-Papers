@@ -125,13 +125,14 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[1]** Jacobs R A, Jordan M I, Nowlan S J, et al. **Adaptive mixtures of local experts[J]. Neural computation**, 1991, 3(1): 79-87. [[pdf]](http://www.csri.utoronto.ca/~hinton/absps/jjnh91.ps)
 
+**[2]** Ramezani M, Marble K, Trang H, et al. **Joint sparse representation of brain activity patterns in multi-task fMRI data**[J]. IEEE Transactions on Medical Imaging, 2014, 34(1): 2-12.
 
-**[2]** Bottou L, Gallinari P. **A framework for the cooperation of learning algorithms**[C]//Advances in neural information processing systems. 1991: 781-788. [[pdf]](http://papers.nips.cc/paper/308-a-framework-for-the-cooperation-of-learning-algorithms.pdf)
+**[3]** Sternberg S. **Modular processes in mind and brain**[J]. Cognitive neuropsychology, 2011, 28(3-4): 156-208.
 
-**[3]** Ronco E, Gollee H, Gawthrop P J. **Modular neural network and self-decomposition**[J]. Connection Science (special issue: COMBINING NEURAL NETS).(To appear), 1996. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.42.3570&rep=rep1&type=pdf)
 
-**[4]** Reed S, De Freitas N. **Neural programmer-interpreters**[J]. arXiv preprint arXiv:1511.06279, 2015.
-[[pdf]](https://arxiv.org/pdf/1511.06279)
+**[4]** Ronco E, Gollee H, Gawthrop P J. **Modular neural network and self-decomposition**[J]. Connection Science (special issue: COMBINING NEURAL NETS).(To appear), 1996. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.42.3570&rep=rep1&type=pdf)
+
+
 
 **[5]** Andreas J, Rohrbach M, Darrell T, et al. **Neural module networks**[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 39-48. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf)
 
@@ -172,6 +173,8 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 **[23]** Andreas, Jacob, Dan Klein, and Sergey Levine. **Modular multitask reinforcement learning with policy sketches.** Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017. [[pdf]](https://dl.acm.org/ft_gateway.cfm?id=3305399&type=pdf)
 
 **[24]** Bahdanau D, Murty S, Noukhovitch M, et al. **Systematic generalization: what is required and can it be learned?**[J]. arXiv preprint arXiv:1811.12889, 2018. [[pdf]](https://arxiv.org/pdf/1811.12889)
+
+**[25]** Chang M B, Gupta A, Levine S, et al. **Automatically composing representation transformations as a means for generalization**[J]. arXiv preprint arXiv:1807.04640, 2018.[[pdf]](https://arxiv.org/pdf/1807.04640)
 
 
 
