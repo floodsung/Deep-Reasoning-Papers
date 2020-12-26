@@ -125,6 +125,17 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[22]** Masataro Asai, Christian Muise. **Learning Neural-Symbolic Descriptive Planning Models via Cube-Space Priors: The Voyage Home (to STRIPS).** International Joint Conference on Artificial Intelligence (IJCAI), 2020. [[pdf]](https://arxiv.org/abs/2004.12850)
 
+**[23]** Pasula, Hanna M., Luke S. Zettlemoyer, and Leslie Pack Kaelbling. "Learning symbolic models of stochastic domains." Journal of Artificial Intelligence Research 29 (2007): 309-352.
+
+**[24]** Konidaris, George D., Leslie P. Kaelbling, and Tomas Lozano-Perez. "Constructing symbolic representations for high-level planning." (2014).
+
+**[25]** Konidaris, George, Leslie P. Kaelbling, and Tomas Lozano-Perez. "Symbol acquisition for probabilistic high-level planning." AAAI Press/International Joint Conferences on Artificial Intelligence, 2015.
+
+**[26]** Andersen, Garrett, and George Konidaris. "Active exploration for learning symbolic representations." Advances in Neural Information Processing Systems. 2017.
+
+**[27]** Konidaris, George, Leslie Pack Kaelbling, and Tomas Lozano-Perez. "From skills to symbols: Learning symbolic representations for abstract high-level planning." Journal of Artificial Intelligence Research 61 (2018): 215-289.
+
+**[28]** James, Steven, Benjamin Rosman, and George Konidaris. "Learning portable representations for high-level planning." International Conference on Machine Learning. PMLR, 2020.
 
 ## 5 Natural Language Reasoning
 
