@@ -115,11 +115,33 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[17]** Li Y, Wu J, Tedrake R, et al. **Learning particle dynamics for manipulating rigid bodies, deformable objects, and fluids**[J]. arXiv preprint arXiv:1810.01566, 2018.[[pdf]](https://arxiv.org/pdf/1810.01566)
 
+**[18]** Masataro Asai, Alex Fukunaga. **Classical Planning in Deep Latent Space: Breaking the Subsymbolic-Symbolic Boundary.** AAAI Conference on Artificial Intelligence, 2018. [[pdf]](https://arxiv.org/abs/1705.00154)
 
+**[19]** Masataro Asai, Hiroshi Kajino. **Towards Stable Symbol Grounding with Zero-Suppressed State AutoEncoder.** [International Conference on Automated Planning and Scheduling](https://www.icaps-conference.org/conference-series/), 2019. [[pdf]](https://arxiv.org/abs/1705.00154)
+
+**[20]** Masataro Asai. **Unsupervised Grounding of Plannable First-Order Logic Representation from Images.** [International Conference on Automated Planning and Scheduling](https://www.icaps-conference.org/conference-series/), 2019. [[pdf]](https://arxiv.org/abs/1902.08093)
+
+**[21]** Masataro Asai. **Neural-Symbolic Descriptive Action Model from Images: The Search for STRIPS.** arXiv preprint 1912.05492, 2019. [[pdf]](https://arxiv.org/abs/1912.05492)
+
+**[22]** Masataro Asai, Christian Muise. **Learning Neural-Symbolic Descriptive Planning Models via Cube-Space Priors: The Voyage Home (to STRIPS).** International Joint Conference on Artificial Intelligence (IJCAI), 2020. [[pdf]](https://arxiv.org/abs/2004.12850)
+
+**[23]** Pasula, Hanna M., Luke S. Zettlemoyer, and Leslie Pack Kaelbling. "Learning symbolic models of stochastic domains." Journal of Artificial Intelligence Research 29 (2007): 309-352.
+
+**[24]** Konidaris, George D., Leslie P. Kaelbling, and Tomas Lozano-Perez. "Constructing symbolic representations for high-level planning." (2014).
+
+**[25]** Konidaris, George, Leslie P. Kaelbling, and Tomas Lozano-Perez. "Symbol acquisition for probabilistic high-level planning." AAAI Press/International Joint Conferences on Artificial Intelligence, 2015.
+
+**[26]** Andersen, Garrett, and George Konidaris. "Active exploration for learning symbolic representations." Advances in Neural Information Processing Systems. 2017.
+
+**[27]** Konidaris, George, Leslie Pack Kaelbling, and Tomas Lozano-Perez. "From skills to symbols: Learning symbolic representations for abstract high-level planning." Journal of Artificial Intelligence Research 61 (2018): 215-289.
+
+**[28]** James, Steven, Benjamin Rosman, and George Konidaris. "Learning portable representations for high-level planning." International Conference on Machine Learning. PMLR, 2020.
 
 ## 5 Natural Language Reasoning
 
 **[1]** Schlag, Imanol, and Jürgen Schmidhuber. **Learning to reason with third order tensor products.** Advances in neural information processing systems. 2018.[[pdf]](http://papers.nips.cc/paper/8203-learning-to-reason-with-third-order-tensor-products.pdf)
+
+**[2]** Masataro Asai and Zilu Tang. **Discrete Word Embedding for Logical Natural Language Understanding,** arXiv preprint 2008.11649, 2020. https://arxiv.org/abs/2008.11649
 
 ## 6 Modularity/Compositional or Systematic Generalization
 
@@ -129,10 +151,7 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 **[3]** Sternberg S. **Modular processes in mind and brain**[J]. Cognitive neuropsychology, 2011, 28(3-4): 156-208.
 
-
 **[4]** Ronco E, Gollee H, Gawthrop P J. **Modular neural network and self-decomposition**[J]. Connection Science (special issue: COMBINING NEURAL NETS).(To appear), 1996. [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.42.3570&rep=rep1&type=pdf)
-
-
 
 **[5]** Andreas J, Rohrbach M, Darrell T, et al. **Neural module networks**[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 39-48. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf)
 
