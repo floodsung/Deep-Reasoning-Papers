@@ -67,17 +67,19 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 
 ## 3 Visual Reasoning
 
-**[1]** Han, Chi, et al. **Visual Concept-Metaconcept Learning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/8745-visual-concept-metaconcept-learning.pdf)
+**[1]** Ma, Xiaojian, et al. **RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning.** International Conference on Learning Representations. 2022 [[pdf]](https://arxiv.org/pdf/2204.11167)
 
-**[2]** Mao, Jiayuan, et al. **Program-Guided Image Manipulators.** Proceedings of the IEEE International Conference on Computer Vision. 2019.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Program-Guided_Image_Manipulators_ICCV_2019_paper.pdf)
+**[2]** Han, Chi, et al. **Visual Concept-Metaconcept Learning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/8745-visual-concept-metaconcept-learning.pdf)
 
-**[3]** Mao, Jiayuan, et al. **The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision.** arXiv preprint arXiv:1904.12584 (2019). [[pdf]](https://arxiv.org/pdf/1904.12584)
+**[3]** Mao, Jiayuan, et al. **Program-Guided Image Manipulators.** Proceedings of the IEEE International Conference on Computer Vision. 2019.[[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Mao_Program-Guided_Image_Manipulators_ICCV_2019_paper.pdf)
 
-**[4]** Tian, Yonglong, et al. **Learning to infer and execute 3d shape programs.** arXiv preprint arXiv:1901.02875 (2019). [[pdf]](https://arxiv.org/pdf/1901.02875)
+**[4]** Mao, Jiayuan, et al. **The neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision.** arXiv preprint arXiv:1904.12584 (2019). [[pdf]](https://arxiv.org/pdf/1904.12584)
 
-**[5]** Liu, Yunchao, et al. **Learning to describe scenes with programs.** (2018). [[pdf]](https://openreview.net/pdf?id=SyNPk2R9K7)
+**[5]** Tian, Yonglong, et al. **Learning to infer and execute 3d shape programs.** arXiv preprint arXiv:1901.02875 (2019). [[pdf]](https://arxiv.org/pdf/1901.02875)
 
-**[6]** Yi, Kexin, et al. **Neural-symbolic vqa: Disentangling reasoning from vision and language understanding.** Advances in Neural Information Processing Systems. 2018. [[pdf]](https://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
+**[6]** Liu, Yunchao, et al. **Learning to describe scenes with programs.** (2018). [[pdf]](https://openreview.net/pdf?id=SyNPk2R9K7)
+
+**[7]** Yi, Kexin, et al. **Neural-symbolic vqa: Disentangling reasoning from vision and language understanding.** Advances in Neural Information Processing Systems. 2018. [[pdf]](https://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
 
 ## 4 Physical Reasoning/Planning/Model based/World Model
 
@@ -197,6 +199,11 @@ Recent Papers including Neural Symbolic Reasoning, Logical Reasoning, Visual Rea
 **[6]** Bakhtin, Anton, et al. **Phyre: A new benchmark for physical reasoning.** Advances in Neural Information Processing Systems. 2019. [[pdf]](https://papers.nips.cc/paper/8752-phyre-a-new-benchmark-for-physical-reasoning.pdf)
 
 **[7]** Baradel, Fabien, et al. **COPHY: Counterfactual Learning of Physical Dynamics.** arXiv preprint arXiv:1909.12000 (2019). [[pdf]](https://arxiv.org/pdf/1909.12000)
+
+**[8]**  Nie, Weili et al., **Bongard-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning**, Advances in Neural Information Processing Systems. 2020. [[pdf]](https://arxiv.org/pdf/2010.00763)
+
+**[9]** Jiang, Huaizu et al., **Bongard-HOI: Benchmarking Few-Shot Visual Reasoning for Human-Object Interactions**, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2022 [[pdf]](https://arxiv.org/pdf/2205.13803.pdf)
+
 
 
 
